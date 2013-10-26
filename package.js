@@ -1,4 +1,6 @@
-Package.describe('Coinbase API integration');
+Package.describe({
+  summary:'Coinbase API integration'
+});
 
 Npm.depends({'coinbase':'1.3.0'});
 
