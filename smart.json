@@ -2,7 +2,7 @@
   "name": "coinbase-API",
   "description": "A Meteor smart package for coinbase API for bitcoin.",
   "homepage": "https://github.com/yubozhao/meteor-coinbase",
-  "author": "Bozhao Yu (github.com/yubozhao)",
+  "author": "Bozhao Yu (http://github.com/yubozhao)",
   "version": "0.0.2",
   "git": "https://github.com/yubzhao/meteor-coinbase.git"
 }
